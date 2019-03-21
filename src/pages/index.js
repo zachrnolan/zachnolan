@@ -60,10 +60,10 @@ const IndexPage = () => (
     <SEO title="Zach Nolan" keywords={[`gatsby`, `application`, `react`]} />
     <Title>
       Hi, I'm Zach Nolan.<br />
-      A freelance developer and product strategist based in Los Angeles.
+      I help fast growing companies build scalable software.
     </Title>
     <Text>
-      Former co-founder of Onyx, a Google Preferred design &amp; development agency.
+      Former co-founder of Onyx, a design &amp; development agency based in Los Angeles.
     </Text>
     <Text>
       I've worked with Google, Belkin, Participant Media, Shout! Factory...

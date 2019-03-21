@@ -24,7 +24,10 @@ const Container = styled.div`
 
 const Main = styled.main`
   max-width: 960px;
-  padding: 100px 30px 0;
+  padding: 60px 30px;
+  @media (min-width: 768px) {
+    padding: 100px 30px;
+  }
 `
 
 const Layout = ({ children }) => (
